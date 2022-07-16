@@ -2,6 +2,9 @@
 
 A web application deployed on https://www.heroku.com/home based on the famous iris dataset (e.g. see https://www.kaggle.com/code/jchen2186/machine-learning-with-iris-dataset/data). 
 
+## Use the App
+To use the app follow this link: 
+
 ## What's in here
 Here you can find:
 - *libraries.R* an R file needed to install the required libraries
