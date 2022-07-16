@@ -9,6 +9,7 @@ To use the app follow this link: https://ml-iris-prediction-app.herokuapp.com
 Here you can find:
 - *libraries.R* an R file needed to install the required libraries
 - *model.rds* the machine learning model used (random forest)
+- *model.R* the R file containing the model used 
 - *runner.R* the file needed to assign the proper ports and to load the *shyny* R package
 - *userInterface.R* the user interface R file
 - *server.R* the server side component of the web application
